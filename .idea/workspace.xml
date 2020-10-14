@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8486bde-cdd6-4203-a309-03377bc933ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Arbeit/DatabaseTest/.idea/DatabaseTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bot/Sensei's Tournament Bot/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bot/Sensei's Tournament Bot/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bot/bot/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Games etc/Cosmic Shit/CosmicPVP Plugins/.idea/CosmicPVP Plugins.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Games etc/Sensei's Bot/SenseisMultiBot/bracketgen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Games etc/Sensei's Bot/SenseisMultiBot/commands/team/join_team.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Games etc/Sensei's Bot/SenseisMultiBot/commands/team/new_team.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Games etc/Sensei's Bot/SenseisMultiBot/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/.idea/libraries/mysql_connector_java_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/.idea/libraries/required.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/JPA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/src/EntityManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/src/Kind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/src/Lehrer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/src/Mutter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/src/Personalausweis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/src/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JPA/src/TestRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaServlet/src/main/java/controller/PersonDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaServlet/src/main/java/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaServlet/src/main/java/servlet/CreateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaServlet/src/main/java/servlet/DeleteServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaServlet/src/main/java/servlet/EditServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaServlet/src/main/java/servlet/ListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaServlet/src/main/java/servlet/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaServlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaServlet/src/main/webapp/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaServlet/src/main/webapp/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaServlet/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaServlet/src/main/webapp/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAngetingderflyver/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAngetingderflyver/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAngetingderflyver/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAngetingderflyver/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAngetingderflyver/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAngetingderflyver/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAngetingderflyver/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAngetingderflyver/MAngetingderflyver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAngetingderflyver/exportToHTML/Ting.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAngetingderflyver/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAngetingderflyver/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAngetingderflyver/src/main/java/Ting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAngetingderflyver/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MAngetingderflyver/target/classes/Ting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyRepoTest/src/main/java/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Server_Client/src/de/gwdg/server/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Server_Client/src/de/gwdg/server/MultiServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Server_Client/src/de/gwdg/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Server_Client/src/de/gwdg/util/InputCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot.js" beforeDir="false" afterPath="$PROJECT_DIR$/bot.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hkBFMsZyJ3c7WLUXCrFyzGaOIn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.15.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Programming\tournamentbot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" node-parameters="bot.js">
+      <method v="2" />
+    </configuration>
+    <configuration name="node bot.js" type="NodeJSConfigurationType" node-parameters="bot.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8486bde-cdd6-4203-a309-03377bc933ad" name="Default Changelist" comment="" />
+      <created>1600545104359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600545104359</updated>
+      <workItem from="1600545105423" duration="3764000" />
+      <workItem from="1600592761867" duration="8982000" />
+      <workItem from="1600635564638" duration="3991000" />
+      <workItem from="1600678667681" duration="613000" />
+      <workItem from="1600679906227" duration="2623000" />
+      <workItem from="1600768661652" duration="599000" />
+      <workItem from="1601248943915" duration="1205000" />
+      <workItem from="1601378328099" duration="599000" />
+      <workItem from="1601423790421" duration="90000" />
+      <workItem from="1601736255150" duration="604000" />
+      <workItem from="1601823702622" duration="934000" />
+      <workItem from="1601878552568" duration="462000" />
+      <workItem from="1602364294254" duration="637000" />
+      <workItem from="1602421765894" duration="598000" />
+      <workItem from="1602493499693" duration="1789000" />
+      <workItem from="1602547754306" duration="2484000" />
+      <workItem from="1602583620769" duration="1198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600545514689">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="518" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600545514689" />
+    <state x="818" y="354" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600603530888">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="818" y="354" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1600603530888" />
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom" timestamp="1602549632857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1360.728@0.0.1920.1040" timestamp="1602549632857" />
+    <state width="1349" height="138" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600607184111" />
+    <state width="1877" height="232" key="GridCell.Tab.0.center" timestamp="1602549632857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1360.728@0.0.1920.1040" timestamp="1602549632857" />
+    <state width="1349" height="138" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600607184111" />
+    <state width="1877" height="232" key="GridCell.Tab.0.left" timestamp="1602549632857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1360.728@0.0.1920.1040" timestamp="1602549632857" />
+    <state width="1349" height="138" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600607184111" />
+    <state width="1877" height="232" key="GridCell.Tab.0.right" timestamp="1602549632857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1360.728@0.0.1920.1040" timestamp="1602549632857" />
+    <state width="1349" height="138" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600607184111" />
+    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1600678670700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1360.728@0.0.1920.1040" timestamp="1600678670700" />
+    <state x="933" y="460" key="save.project.as.template.dialog" timestamp="1600545635322">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="933" y="460" key="save.project.as.template.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600545635322" />
+  </component>
+</project>
